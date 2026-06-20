@@ -31,7 +31,7 @@ Sistem login menggunakan tabel users
 
 ## 📸 Screenshot ERD / Relasi Database:
 
-(Masukkan screenshot phpMyAdmin di sini)
+![Picture](relasi.png).
 
 ## 🔐 Keamanan API
 
@@ -45,11 +45,11 @@ Semua endpoint yang bersifat manipulasi data (POST, PUT, DELETE) dilindungi meng
 
 # 🔑 Halaman Login
 
-(Masukkan screenshot login)
+![Picture](relasi.png).
 
 # 📊 Dashboard Admin
 
-(Masukkan screenshot dashboard)
+![Picture](Dashboard.png).
 
 ➕ Form Tambah / Edit Data
 
