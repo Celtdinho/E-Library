@@ -222,7 +222,7 @@ Acceptance Criteria:
 SPA berjalan.
 
 
-Completed: 2026-06-20
+Completed: 2026-06-21
 
 
 # PHASE 11 - ROUTER
@@ -242,7 +242,7 @@ Acceptance Criteria:
 
 Semua route dapat diakses.
 
-Completed: 2026-06-20
+Completed: 2026-06-21
 
 ---
 
@@ -261,7 +261,7 @@ Acceptance Criteria:
 
 User ilegal tidak dapat membuka dashboard.
 
-Completed: 2026-06-20
+Completed: 2026-06-21
 
 ---
 
@@ -284,7 +284,7 @@ Token otomatis terkirim.
 
 401 otomatis logout.
 
-Completed: 2026-06-20
+Completed: 2026-06-21
 
 ---
 
@@ -305,7 +305,7 @@ Acceptance Criteria:
 
 Login berhasil.
 
-Completed: 2026-06-20
+Completed: 2026-06-22
 
 ---
 
@@ -324,7 +324,7 @@ Acceptance Criteria:
 
 Statistik tampil dari API.
 
-Completed: 2026-06-20
+Completed: 2026-06-22
 
 ---
 
@@ -344,7 +344,7 @@ Acceptance Criteria:
 
 CRUD kategori berjalan penuh.
 
-Completed: 2026-06-20
+Completed: 2026-06-22
 
 ---
 
@@ -365,7 +365,7 @@ Acceptance Criteria:
 
 CRUD buku berjalan penuh.
 
-Completed: 2026-06-20
+Completed: 2026-06-22
 
 ---
 
@@ -384,7 +384,7 @@ Acceptance Criteria:
 
 Logout berhasil.
 
-Completed: 2026-06-20
+Completed: 2026-06-22
 
 ---
 
@@ -406,7 +406,7 @@ Acceptance Criteria:
 
 UI terlihat modern dan rapi.
 
-Completed: 2026-06-20
+Completed: 2026-06-22
 
 ---
 
@@ -429,7 +429,7 @@ Acceptance Criteria:
 
 Home has search, filter, borrow UI, and top-3 section. Dashboard hosts all CRUD. Books route replaced with Bookmarks. Categories removed from navigation.
 
-Completed: 2026-06-20
+Completed: 2026-06-22
 
 ---
 
