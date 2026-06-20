@@ -45,7 +45,7 @@ Semua endpoint yang bersifat manipulasi data (POST, PUT, DELETE) dilindungi meng
 
 # 🔑 Halaman Login
 
-![Picture](relasi.png).
+![Picture](Login.png).
 
 # 📊 Dashboard Admin
 
@@ -53,11 +53,11 @@ Semua endpoint yang bersifat manipulasi data (POST, PUT, DELETE) dilindungi meng
 
 ➕ Form Tambah / Edit Data
 
-(Masukkan screenshot modal form)
+![Picture](Books.png).
 
 # 📚 Tabel Data Buku & Kategori (TailwindCSS UI)
 
-(Masukkan screenshot tabel)
+![Picture](Home.png).
 
 ## ⚙️ Cara Instalasi & Menjalankan Project
 
