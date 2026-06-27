@@ -1,4 +1,18 @@
 # 📚 E-Library - Sistem Informasi Peminjaman Buku
+
+# MOHON MAAF PAK KARENA SAYA SALAH UPLOAD FILE PRAKTIKUM SAYA UPLOAD LINK REPOSITORY UNTUK TUGAS PRAKTIKUM 1-14 DI SINI PAK
+# https://github.com/Celtdinho/Praktikum-1-14-Pemrograman-Web-2.git
+
+
+
+
+
+
+
+
+
+
+
 ## 📌 Deskripsi Proyek
 
 E-Library adalah aplikasi web berbasis sistem peminjaman buku sederhana yang dibangun untuk memenuhi tugas UAS mata kuliah Pemrograman Web 2.
