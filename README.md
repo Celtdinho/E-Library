@@ -39,7 +39,7 @@ Semua endpoint yang bersifat manipulasi data (POST, PUT, DELETE) dilindungi meng
 
 ## 📸 Contoh Error 401 Unauthorized:
 
-(Masukkan screenshot Postman gagal akses tanpa token)
+![gambar](401Error.png)
 
 # 🖥️ Tampilan Aplikasi
 
