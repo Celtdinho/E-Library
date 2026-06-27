@@ -113,8 +113,8 @@ Navigation Guard di frontend
 ## 🌐 Demo & Presentasi
 
 🔗 GitHub Repo: https://github.com/Celtdinho/E-Library
-🎥 Video Presentasi: (isi link YouTube / Drive di sini)
-🌍 Demo Lokal: http://localhost/UAS%20Web/frontend-spa/
+🎥 Video Presentasi: (https://youtu.be/ccMb_W4TXmE?si=s-KE2gzyP1jE8dyz)
+🌍 Demo Lokal: Coming soon
 📌 Catatan
 
 Project ini dibuat sebagai tugas UAS dan dikembangkan dengan konsep decoupled architecture agar backend dan frontend berjalan secara terpisah namun tetap saling terintegrasi melalui REST API.
