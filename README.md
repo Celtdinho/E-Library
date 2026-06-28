@@ -1,5 +1,9 @@
 # 📚 E-Library - Sistem Informasi Peminjaman Buku
 
+Nama : Naufal Rafi Haryanto 
+Nim : 312410118
+Kelas I241A
+
 # MOHON MAAF PAK KARENA SAYA SALAH UPLOAD FILE PRAKTIKUM SAYA UPLOAD LINK REPOSITORY UNTUK TUGAS PRAKTIKUM 1-14 DI SINI PAK
 # https://github.com/Celtdinho/Praktikum-1-14-Pemrograman-Web-2.git
 
@@ -114,7 +118,7 @@ Navigation Guard di frontend
 
 🔗 GitHub Repo: https://github.com/Celtdinho/E-Library
 🎥 Video Presentasi: (https://youtu.be/ccMb_W4TXmE?si=s-KE2gzyP1jE8dyz)
-🌍 Demo Lokal: Coming soon
+🌍 Demo Lokal: (https://e-perpus-frontend.vercel.app/#/)
 📌 Catatan
 
 Project ini dibuat sebagai tugas UAS dan dikembangkan dengan konsep decoupled architecture agar backend dan frontend berjalan secara terpisah namun tetap saling terintegrasi melalui REST API.
